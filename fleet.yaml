@@ -1,0 +1,3 @@
+defaultNamespace: gitops-app
+helm:
+  releaseName: webapp-release
